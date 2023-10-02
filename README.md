@@ -12,3 +12,4 @@ python blastgraph.py -f example_data/queries/F3D0_S188_L001_R1.fasta -d example_
 --force
 ```
 
+![Screenshot](https://github.com/BaileeEgan/blastgraph/blob/main/screenshot.png?raw=true)
